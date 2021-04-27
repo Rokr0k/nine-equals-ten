@@ -11,5 +11,4 @@
 - [x] ✔️ Go
 - [x] ✔️ Haskell
 - [x] ✔️ C#
-- [ ] ❓ Q#
 - [ ] ❓ Umjunsik-lang
