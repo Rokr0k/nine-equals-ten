@@ -1,11 +1,16 @@
-# C/C++
-a.out
-*.o
-*.a
+# C
+c/*.o
+c/*.a
+c/a.out
+
+# C++
+cpp/*.o
+cpp/*.a
+cpp/a.out
 
 # Java
-*.class
+java/*.class
 
 # Haskell
-*.hi
-*.o
+haskell/*.o
+haskell/*.hi

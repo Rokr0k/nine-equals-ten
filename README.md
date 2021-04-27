@@ -10,6 +10,6 @@
 - [x] ✔️ Python
 - [x] ✔️ Go
 - [x] ✔️ Haskell
-- [ ] ❓ C#
+- [x] ✔️ C#
 - [ ] ❓ Q#
 - [ ] ❓ Umjunsik-lang
