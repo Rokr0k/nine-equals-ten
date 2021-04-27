@@ -8,7 +8,7 @@
 - [x] ✔️ Java
 - [x] ✔️ Javascript
 - [x] ✔️ Python
-- [ ] ❓ Go
+- [x] ✔️ Go
 - [ ] ❓ Haskell
 - [ ] ❓ C#
 - [ ] ❓ Q#
