@@ -5,3 +5,7 @@ a.out
 
 # Java
 *.class
+
+# Haskell
+*.hi
+*.o

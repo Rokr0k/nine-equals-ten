@@ -9,7 +9,7 @@
 - [x] ✔️ Javascript
 - [x] ✔️ Python
 - [x] ✔️ Go
-- [ ] ❓ Haskell
+- [x] ✔️ Haskell
 - [ ] ❓ C#
 - [ ] ❓ Q#
 - [ ] ❓ Umjunsik-lang
