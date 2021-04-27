@@ -11,4 +11,4 @@
 - [x] ✔️ Go
 - [x] ✔️ Haskell
 - [x] ✔️ C#
-- [ ] ❓ Umjunsik-lang
+- [x] ✔️ Umjunsik-lang
